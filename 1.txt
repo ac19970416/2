@@ -3,3 +3,4 @@
 git add 
 not commit
 stupid  decision
+add but not commit 
